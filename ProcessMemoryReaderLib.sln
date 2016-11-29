@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMemoryReaderLib", "ProcessMemoryReaderLib\ProcessMemoryReaderLib.csproj", "{594702BE-4E44-4F36-8A6F-B95E4180F96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeperReader", "MineSweeperReader\MineSweeperReader.csproj", "{799173EF-8FDF-41AB-A027-AD147A4BE3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F9FD79D9-A69A-4139-8AFE-4F189D6DE92E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594702BE-4E44-4F36-8A6F-B95E4180F96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594702BE-4E44-4F36-8A6F-B95E4180F96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594702BE-4E44-4F36-8A6F-B95E4180F96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594702BE-4E44-4F36-8A6F-B95E4180F96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799173EF-8FDF-41AB-A027-AD147A4BE3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799173EF-8FDF-41AB-A027-AD147A4BE3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799173EF-8FDF-41AB-A027-AD147A4BE3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799173EF-8FDF-41AB-A027-AD147A4BE3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9FD79D9-A69A-4139-8AFE-4F189D6DE92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FD79D9-A69A-4139-8AFE-4F189D6DE92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FD79D9-A69A-4139-8AFE-4F189D6DE92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FD79D9-A69A-4139-8AFE-4F189D6DE92E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
